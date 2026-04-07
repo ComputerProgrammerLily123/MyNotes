@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d0ab4c4e17ffb2a",
@@ -204,8 +205,8 @@
   },
   "active": "fe03e05161f4b946",
   "lastOpenFiles": [
-    "主页.md",
     "微积分/级数.md",
+    "主页.md",
     "微积分",
     "新建 文本文档.txt"
   ]
